@@ -1,0 +1,41 @@
+---
+title: "프로그래머스 완주하지못한선수"
+categories: 
+  - 프로그래머스
+last_modified_at: 2020-04-14T02:54:00+09:00
+toc: true
+tagㄴ: 
+  - Programmers
+  - Map
+---
+프로그래머스 완주하지못한선수 문제 풀이해보도록 하겠습니다.<br/>
+
+Source Code : 
+
+~~~
+#include <string>
+#include <vector>
+#include <map>
+#include <algorithm>
+using namespace std;
+
+string solution(vector<string> participant, vector<string> completion) {
+	string answer = "";
+	map<string, int> m;
+    
+    for(string player : participant){
+        m[player]++;
+    }
+    for(string player : completion){
+        m[player]--;
+    }
+    
+    for(auto iter = m.begin(); iter != m.end();iter++){
+        if(m[iter->first] > 0)
+            return iter->first;
+    }
+    
+	return answer;
+}
+
+~~~
