@@ -1,8 +1,11 @@
-# JooYoung1121.github.io
-깃헙 블로그
 
-많은 피드백 주시면 감사하겠습니다!!
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJooYoung1121%2FJooYoung1121.github.io)](https://hits.seeyoufarm.com)                   
+
+
+# JooYoung1121.github.io
+
+## 많은 피드백 주시면 감사하겠습니다!!
 
 [블로그](https://jooyoung1121.github.io)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJooYoung1121%2FJooYoung1121.github.io)](https://hits.seeyoufarm.com)                   
+
