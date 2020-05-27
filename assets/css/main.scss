@@ -9,3 +9,25 @@
 
 // Font 변경
 @import url('https://fonts.googleapis.com/css?family=Inconsolata');
+
+$serif              : "Inconsolata", monospace, "PT Serif", Georgia, Times, serif;
+$sans-serif-narrow  : "Inconsolata", monospace, "PT Sans Narrow", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+
+$global-font-family : $serif;
+$header-font-family : $sans-serif-narrow;
+$caption-font-family: $serif !default;
+
+html {
+    font-size: 12px; // originally 16px
+    @include breakpoint($medium) {
+        font-size: 14px; // originally 18px
+    }
+
+    @include breakpoint($large) {
+        font-size: 16px; // originally 20px
+    }
+
+    @include breakpoint($x-large) {
+        font-size: 18px; // originally 22px
+    }
+}
