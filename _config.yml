@@ -276,7 +276,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: #true
+      comments: true
       share: true
       related: true
 
@@ -288,4 +288,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      read_time: false
+      comments: false
+      share: true
+      related: false
   # >>>>>>>>>>>>>>>>>>>> 여기까지 추가 됨
