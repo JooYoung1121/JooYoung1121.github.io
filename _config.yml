@@ -97,7 +97,7 @@ author:
   avatar           : "/assets/images/JY/내사진.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "잘 부탁 드립니다! 1일 1포스트 도전!"
   location         : "KyungHee Univ."
-  email            :
+  email            : "rlawndud7@nate.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -110,7 +110,7 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://facebook.com/oownhi88"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/JooYoung1121"
@@ -207,7 +207,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 4 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
