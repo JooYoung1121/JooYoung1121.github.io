@@ -96,7 +96,7 @@ author:
   name             : "JooYoung Kim"
   avatar           : "/assets/images/JY/내사진.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "잘 부탁 드립니다! 1일 1포스트 도전!"
-  location         : "Seoul!!"
+  location         : "Seoul"
   email            : 
   links:
     - label: "Email"
