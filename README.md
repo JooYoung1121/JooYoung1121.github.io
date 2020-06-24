@@ -12,3 +12,6 @@
 
 5/26 Start
 
+## Theme 
+
+minimal-mistakes
