@@ -2,7 +2,7 @@
 title: "[리트코드] 104 Maximum Depth of Binary Tree"
 categories: 
   - 리트코드
-last_modified_at: 2021-01-01T13:00:00+09:00
+last_modified_at: 2021-01-02T13:00:00+09:00
 toc: true
 tags: 
   - 리트코드
