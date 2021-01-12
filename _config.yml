@@ -97,7 +97,7 @@ author:
   avatar           : "/assets/images/JY/내사진.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "21년엔 원하는 직무를 하길"
   location         : "Seoul"
-  email            : 
+  email            : "rlawndud7@nate.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
