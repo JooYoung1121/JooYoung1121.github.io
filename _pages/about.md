@@ -3,7 +3,7 @@ title: "About Jooyoung's Blog"
 permalink: /about/
 layout: single
 
-last_modified_at: 2020-06-13T20:00:00+09:00
+last_modified_at: 2021-01-15T20:00:00+09:00
 toc: true
 
 ---
