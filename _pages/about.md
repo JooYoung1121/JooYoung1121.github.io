@@ -41,6 +41,8 @@ toc: true
 - 딥러닝을 활용한 허파 x-ray 병변 여부 인식 
   > 캡스톤 디자인 수업에서 CNN모델을 활용하여 개발 (2019.03 ~ 2019.06)
 
+### 알고리즘
+<https://github.com/JooYoung1121/CodingTest_Algorithm>
 
 ## 현재
 - 국민은행 인프라플랫폼에서 서버 운영을 담당 (인프라 싫어요..ㅠㅠ)
