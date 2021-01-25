@@ -7,7 +7,7 @@ last_modified_at: 2021-01-15T20:00:00+09:00
 toc: true
 
 ---
-## JooYoung1121.github.io 블로그
+## 주영 블로그
 
 ## History
 
