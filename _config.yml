@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "air" #"default" "air", "aqua", "contrast", "dark", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Jooyoung's Blog"
+title                    : "J Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "JooYoung"
-description              : "JY Blog"
+name                     : "J"
+description              : "J Blog"
 url                      : "https://jooyoung1121.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "JooYoung1121/JooYoung1121.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
