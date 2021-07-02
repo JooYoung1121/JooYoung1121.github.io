@@ -17,4 +17,3 @@
 
 minimal-mistakes
 
-두근두근
