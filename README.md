@@ -11,7 +11,8 @@
 ### history
 
 5/26 Start
-7/13 은행
+20/7/13 은행
+21/7/27 Naver
 
 ## Theme 
 
